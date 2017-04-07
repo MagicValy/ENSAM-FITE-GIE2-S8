@@ -11,7 +11,7 @@ Bons bidouillages !
 Valéry LE KHANH VAN, alias MagicValy
 
 1. Constituer vous votre boite à outils:
-Vu en cours, vous devez disposer de votre PC dans lequel vous aller installer et configurer vos logiciels
+Vu en cours, vous devez disposer de votre PC dans lequel vous allez installer et configurer vos logiciels
 Ces derniers vont constituer votre 'couteau suisse' au niveau logiciel
 
 2. Prise en main Raspberry
@@ -24,7 +24,7 @@ Installez l'IDE ARDUINO qui permet de réaliser vos sketch (programmes)
 Trouver l'exemple de programme (template) qui fait clignoter la led intégrée de la carte à ARDUINO
 
 4. Créez vous votre compte sur GitHub
-Pour travailler en groupe, cela est requis de commencer par le prérequis: faire son compte !
+Pour travailler en groupe, il est requis de commencer par le prérequis: faire son compte !
 
 5. Mise en commun du fichier BLINK
 Nous allons apprendre à travailler en groupe pour faire évoluer un simple fichier informatique et nous initier au cycle de vie logiciel
