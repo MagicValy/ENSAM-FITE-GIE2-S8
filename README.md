@@ -10,7 +10,7 @@ Abordez ces exercices sous le sceau d'un jeu et exercice de groupe ;)
 Bons bidouillages !
 Valéry LE KHANH VAN, alias MagicValy
 
-1. Constituer vous votre boite à outils:
+1. Constituez vous votre boite à outils:
 Vu en cours, vous devez disposer de votre PC dans lequel vous allez installer et configurer vos logiciels
 Ces derniers vont constituer votre 'couteau suisse' au niveau logiciel
 
